@@ -5,18 +5,18 @@
 # Employee Tracker
 
 ## Description
-The Employee Tracker is a comprehensive management system designed to handle employee-related data in a business. This project leverages SQL and Inquirer to provide an interactive and user-friendly interface for managing employees, departments, and roles.
+The Employee Tracker is a comprehensive management system designed to handle employee-related data in a business. This project leverages PostgreSQL and Inquirer to provide an interactive and user-friendly interface for managing employees, departments, and roles.
 
 
 ## Table of Contents
 - [Description](#description)
 - [Installation](#installation)
-- [Usage](#installation)
-- [Tests](#installation)
+- [Usage](#usage)
+- [Tests](#tests)
 - [Questions](#questions)
 
 ## Video
-
+- [Google Drive Link](https://drive.google.com/file/d/1GJkKIYCHQ-P-Nxiikm-yoqPOQH9OrGuz/view)
 
 ## Features
 
