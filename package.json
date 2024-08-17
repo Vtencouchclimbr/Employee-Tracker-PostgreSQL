@@ -1,0 +1,17 @@
+{
+  "name": "employee-tracker-postgresql",
+  "version": "1.0.0",
+  "description": "employee tracker using sql",
+  "main": "connections.js",
+  "type": "module",
+  "scripts": {
+    "start": "node prompts.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "inquirer": "^10.1.8",
+    "pg": "^8.12.0"
+  }
+}
