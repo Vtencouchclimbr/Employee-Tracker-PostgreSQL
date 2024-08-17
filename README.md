@@ -1,7 +1,3 @@
-
-
-  
-  
 # Employee Tracker
 
 ## Description
